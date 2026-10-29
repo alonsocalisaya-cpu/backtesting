@@ -1,0 +1,16 @@
+[server]
+port = 8000
+address = "127.0.0.1"
+headless = true
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "dark"
+primaryColor = "#38d6b0"
+backgroundColor = "#0b101b"
+secondaryBackgroundColor = "#141d2c"
+textColor = "#e9eff9"
+font = "sans serif"
